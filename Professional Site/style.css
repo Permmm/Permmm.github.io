@@ -1,0 +1,99 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    background: rgb(249,236,255);
+background: radial-gradient(circle, rgba(249,236,255,1) 48%, rgba(213,241,254,1) 100%);
+
+}
+
+
+
+h1 {
+    font-weight: 700;
+    color: rgb(113, 4, 156);
+    padding-bottom: 2rem;
+}
+
+h3 {
+    color: rgb(113, 4, 156); 
+    padding-bottom: 1rem;
+   
+}
+
+h4 {
+    font-size: x-large;
+}
+
+p {
+    padding-bottom: 2rem;
+}
+
+.resume {
+    color: rgb(113, 4, 156); 
+}
+.me {
+    padding-top: 45%;
+}
+
+.container-fluid {
+    padding: 3% 10%;
+    overflow: hidden;
+}
+
+.link {
+    float: left;
+}
+.icon {
+    color: rgb(59, 70, 236);
+}
+
+.container {
+    padding: 5rem;
+}
+.workhistory {
+background-color: rgb(153, 73, 244);
+    border-radius: 25px;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    color: #fff;
+   
+
+}
+
+.skills {
+    border-radius: 25px;
+}
+
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.navbar {
+    font-size: medium;
+}
+
+.img-responsive {
+    width: 85%;
+    height: auto;
+}
+
+.webd {
+    width: 90%;
+    border-radius: 25px;
+}
+
+.feature col {
+    background-color: #fff;
+}
+
+.Copyright {
+    color: rgb(161, 161, 161);
+}
+
+.aws {
+    width: 80%;
+}
+
+
