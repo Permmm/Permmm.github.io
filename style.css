@@ -50,19 +50,16 @@ p {
     color: rgb(59, 70, 236);
 }
 
-.container {
-    padding: 5rem;
-}
+
 .workhistory {
 background-color: rgb(153, 73, 244);
-    border-radius: 25px;
-    margin-top: 3rem;
-
     color: #fff;
 
 }
 
-
+.container {
+    padding-bottom: 3rem;
+}
 .skills {
     border-radius: 25px;
 }
