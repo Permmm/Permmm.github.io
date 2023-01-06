@@ -40,6 +40,9 @@ p {
     overflow: hidden;
 }
 
+.container-skills {
+ padding-top: 2rem;
+}
 .link {
     float: left;
 }
